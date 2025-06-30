@@ -14,6 +14,7 @@
 ## 📌 About Me
 
 - 🚀 [Check Out **My Portfolio!**](https://sankavi-raveendran.github.io/PortFolio/)🔗
+- 💼 Currently Working: **Software Engineer** Intern 👩‍💻
 - 🎓 **Currently Studying**: B.Sc. (Hons) in **Computer Science and Technology** at **Uva Wellassa University of Sri Lanka**  
 - 🔍 Passionate about **Software Engineering** 👩‍💻
 - 🌙 Coding under the stars, fueled by **coffee & creativity** ☕🚀 
